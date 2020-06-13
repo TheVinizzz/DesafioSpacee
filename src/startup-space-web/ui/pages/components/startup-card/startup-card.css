@@ -1,0 +1,42 @@
+.bb
+{
+background-color: rgba(0,0,0,.4);
+box-shadow: 0 0 15px rgba(0,0,0,.6);
+border-radius: 50px;
+padding: 25px;
+margin-top: 20px;
+max-width: 300px;
+color: #FFF;
+transition: all 1s;
+}
+.bb:hover{
+    background-color: rgba(133,68,206,.4);
+}
+.footer-card
+{
+   color: #614ea6;
+   height: 35px;
+}
+.btn-descricao
+{
+    background-color: #614ea6;
+    color: #FFF;
+}
+.btn-descricao:hover
+{
+    background-color: #f21667;
+    color: #FFF;
+    text-decoration: none;
+}
+.card-text
+{
+    max-height: 100px;
+    min-height: 50px;
+    overflow: hidden;
+}
+.img-cartao
+{
+    max-height: 200px;
+    max-height: 100px;
+    min-width: 100%;
+}
