@@ -1,2 +1,1 @@
 # DesafioSpacee
-By: Carlos Vincius
